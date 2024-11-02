@@ -3,3 +3,6 @@
 /blender
 /kenney-sci-fi-sounds
 /.ipynb_checkpoints
+/.cargo/
+/out
+
